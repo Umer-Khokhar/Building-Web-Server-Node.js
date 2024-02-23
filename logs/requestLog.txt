@@ -6,3 +6,7 @@
 24-01-2024	fb57ac00-6045-4982-aa53-decedf6e2727	/new-page.html: GET
 24-01-2024	47aaa88e-b2d9-49d9-a2c2-8b53f34cadd0	/css/style.css: GET
 24-01-2024	50fe69f0-70d8-4dea-b9d5-86a472c9eb59	/img/server.jpg: GET
+14-02-2024	4063628a-aa68-4a0c-82a4-00f5117f7245	/: GET
+14-02-2024	2e861198-22b2-480d-b475-61e602a82ba3	/css/style.css: GET
+14-02-2024	38da9276-f101-45e7-951d-7c7bc5cbfacd	/favicon.ico: GET
+14-02-2024	77929bbb-f7ae-40f8-854e-59ae2ed88966	/data/data.json: GET
